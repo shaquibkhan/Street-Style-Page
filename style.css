@@ -1,0 +1,94 @@
+ .list-item {
+    display: inline;
+    position: relative;
+    top: -60px;
+    left: 420px;
+    padding:22px;
+    font-size: 18px;
+    font-family: 'Orbitron', sans-serif;
+}
+.nav-button{
+    position:absolute;
+    top: 20px;
+    right: 40px;
+    font-family: 'Orbitron', sans-serif;
+    background-color: #ffffff;
+    padding: 5px;
+}
+ .search-icon{
+    position: absolute;
+    top:19px;
+    right:125px;
+    
+ }
+ .brand-logo{
+    margin-left: 33px;
+ }
+ .person-image > img{
+    position: absolute;
+    height:500px;
+    margin-left:30px;
+ }
+ .globe > img {
+    position: absolute;
+    right:687px;
+ }
+ .star > img {
+    position: absolute;
+    right:100px;
+ }
+ .square > img{
+    position: absolute;
+    top:295px;
+    left:116px;
+ }
+ .hero-heading{
+    position: absolute;
+    top:200px;
+    right:150px;
+    font-size: 50px;
+    font-family: 'Orbitron', sans-serif;
+ }
+.hero-description{
+    position: absolute;
+    top:350px;
+    right:100px;
+    font-size: 15px;
+    font-family: 'Orbitron', sans-serif;
+    max-width: 46%;
+    word-spacing: 10px;
+    text-align: center;
+}
+.my-Buttons{
+    position: absolute;
+    top:500px;
+    right:400px;
+    word-spacing: 30px;
+    
+}
+.button-email{
+    background-color: #ffffff;
+    font-family: 'Orbitron', sans-serif;
+    border-radius: 5px;
+}
+.button-join{
+    background-color: #000000;
+    color:#ffffff;
+    font-family: 'Orbitron', sans-serif;
+    border-radius: 9px;
+    font-size: 12px;
+    padding:6px;
+}
+.contact-heading{
+    position: absolute;
+    top:550px;
+    right:470px;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 18px;
+}
+.icons{
+    position: absolute;
+    top:650px;
+    right:410px;
+    word-spacing: 20px;
+}
