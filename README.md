@@ -3,7 +3,7 @@
 ## Created by 
 > Shaquib Khan
 ## `Technology used : ` 
- ![localimages](./assets/html-icon.png)  ` & ` ![localimages](./assets/css-icon.png)
+ > HTML & CSS
  ***
   ### `Time taken to complete this project `
  > 4 hours
